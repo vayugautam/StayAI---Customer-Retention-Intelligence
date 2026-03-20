@@ -1,0 +1,25 @@
+# Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+retainiq-ml/
+
+# Data and model artifacts
+*.csv
+*.pkl
+*.joblib
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.pdf
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
